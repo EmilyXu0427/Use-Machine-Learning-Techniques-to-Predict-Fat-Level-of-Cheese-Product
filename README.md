@@ -5,12 +5,12 @@
 <div>
 <h2/>Purpose and original interest</h2>
 </div>
-I am always curious if I can apply machine learning in food industry to make useful prediction. In this project, I have done a exploratory data analysis on the cheese dataset from goveronment resource. After analyzing the data and feature selection and transformation, I fit different machine learning models on this dataset, and hyparameter tuning and evaluate the final model. 
+I am always curious if I can apply machine learning in food industry to make useful prediction. In this project, I have done a exploratory data analysis on the cheese dataset from goveronment resource. After data analysis, feature selection and transformation, I fit different machine learning models on this dataset, and carry out hyparameter tuning and evaluate the final model. 
 <div>
 <h2/>Work done</h2>
 </div>
 
-✅ Load data, data spliting (train and test data)
+✅ Load data, data spliting (train and test data) <br>
 ✅ Basic exploratory data analysis and visualization on test data <br>
 ✅ Select useful features and drop useless columns <br>
 ✅ Build baseline model <br>
