@@ -22,5 +22,5 @@ I am always curious if I can apply machine learning in food industry to make use
 <div>
 <h2/>Programming Language | Library | Framework</h2>
 </div>
-Python (pandas, sklearn)
+Python (Pandas, Sklearn)
 <br>
